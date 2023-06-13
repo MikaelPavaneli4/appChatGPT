@@ -74,10 +74,11 @@
 		88633C3A2A38E43B00F36861 /* appChatGPT */ = {
 			isa = PBXGroup;
 			children = (
-				88633C5D2A38E77000F36861 /* Home */,
 				88633C5A2A38E70200F36861 /* Service */,
-				88633C522A38E5EC00F36861 /* Utils */,
 				88633C4F2A38E56500F36861 /* Model */,
+				88633C522A38E5EC00F36861 /* Utils */,
+				88633C5D2A38E77000F36861 /* Home */,
+				88633C3F2A38E43B00F36861 /* HomeViewController.swift */,
 				88633C3B2A38E43B00F36861 /* AppDelegate.swift */,
 				88633C3D2A38E43B00F36861 /* SceneDelegate.swift */,
 				88633C442A38E43D00F36861 /* Assets.xcassets */,
@@ -124,7 +125,6 @@
 		88633C5D2A38E77000F36861 /* Home */ = {
 			isa = PBXGroup;
 			children = (
-				88633C3F2A38E43B00F36861 /* HomeViewController.swift */,
 				88633C5E2A38E78000F36861 /* ViewModel */,
 				88633C5F2A38E78700F36861 /* Cell */,
 				88633C602A38E78D00F36861 /* Screen */,
